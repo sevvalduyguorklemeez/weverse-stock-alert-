@@ -1,0 +1,14 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "use_tls": true,
+  "smtp_user": "sorklemez@gmail.com",
+  "smtp_password": "amyu wlkx txig xpgh",
+  "sender": "sorklemez@gmail.com",
+  "recipients": [
+    "svdnrrardc64@gmail.com",
+    "sorklemez@gmail.com"
+    
+  ]
+}
+

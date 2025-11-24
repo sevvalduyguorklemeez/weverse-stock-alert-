@@ -1,0 +1,14 @@
+{
+  "smtp_host": "smtp.yourprovider.com",
+  "smtp_port": 587,
+  "use_tls": true,
+  "smtp_user": "weverse-alert@example.com",
+  "smtp_password": "APP_PASSWORD_HERE",
+  "sender": "weverse-alert@example.com",
+  "recipients": [
+    "friend1@example.com",
+    "friend2@example.com",
+    "friend3@example.com"
+  ]
+}
+
