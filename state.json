@@ -433,7 +433,7 @@
   },
   "186:46102": {
     "name": "SCARF",
-    "status": "SALE",
+    "status": "SOLD_OUT",
     "price": 19,
     "originalPrice": 19,
     "categoryId": 186,
@@ -442,7 +442,7 @@
   },
   "186:46101": {
     "name": "VARSITY JACKET",
-    "status": "SALE",
+    "status": "SOLD_OUT",
     "price": 135,
     "originalPrice": 135,
     "categoryId": 186,
