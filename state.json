@@ -701,6 +701,33 @@
     "categoryName": "US MEMBERSHIP",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34050"
   },
+  "776:51514": {
+    "name": "TOMORROW X TOGETHER 2026 SEASON'S GREETINGS + PPULBATU 2026 CALENDAR SET",
+    "status": "TO_BE_SOLD",
+    "price": 82,
+    "originalPrice": 82,
+    "categoryId": 776,
+    "categoryName": "SEASON'S GREETINGS",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51514"
+  },
+  "776:51507": {
+    "name": "PPULBATU 2026 CALENDAR",
+    "status": "TO_BE_SOLD",
+    "price": 30,
+    "originalPrice": 30,
+    "categoryId": 776,
+    "categoryName": "SEASON'S GREETINGS",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51507"
+  },
+  "776:51506": {
+    "name": "TOMORROW X TOGETHER 2026 SEASON’S GREETINGS",
+    "status": "TO_BE_SOLD",
+    "price": 52,
+    "originalPrice": 52,
+    "categoryId": 776,
+    "categoryName": "SEASON'S GREETINGS",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51506"
+  },
   "776:33528": {
     "name": "TOMORROW X TOGETHER 2025 SEASON'S GREETINGS+WALL CALENDAR SET",
     "status": "SOLD_OUT",
@@ -746,6 +773,33 @@
     "categoryName": "SEASON'S GREETINGS",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/2665"
   },
+  "776:51498": {
+    "name": "TOMORROW X TOGETHER 2026 SEASON’S GREETINGS",
+    "status": "TO_BE_SOLD",
+    "price": 36.98,
+    "originalPrice": 36.98,
+    "categoryId": 776,
+    "categoryName": "SEASON'S GREETINGS",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51498"
+  },
+  "776:51499": {
+    "name": "PPULBATU 2026 CALENDAR",
+    "status": "TO_BE_SOLD",
+    "price": 19.67,
+    "originalPrice": 19.67,
+    "categoryId": 776,
+    "categoryName": "SEASON'S GREETINGS",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51499"
+  },
+  "776:51500": {
+    "name": "TOMORROW X TOGETHER 2026 SEASON'S GREETINGS + PPULBATU 2026 CALENDAR SET",
+    "status": "TO_BE_SOLD",
+    "price": 56.66,
+    "originalPrice": 56.66,
+    "categoryId": 776,
+    "categoryName": "SEASON'S GREETINGS",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51500"
+  },
   "776:33825": {
     "name": "TOMORROW X TOGETHER 2025 SEASON'S GREETINGS+WALL CALENDAR SET",
     "status": "SOLD_OUT",
@@ -754,42 +808,6 @@
     "categoryId": 776,
     "categoryName": "SEASON'S GREETINGS",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/33825"
-  },
-  "776:33824": {
-    "name": "TOMORROW X TOGETHER 2025 WALL CALENDAR",
-    "status": "SOLD_OUT",
-    "price": 17.31,
-    "originalPrice": 17.31,
-    "categoryId": 776,
-    "categoryName": "SEASON'S GREETINGS",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/33824"
-  },
-  "776:7221": {
-    "name": "2022 Season's Greetings",
-    "status": "SOLD_OUT",
-    "price": 29.9,
-    "originalPrice": 29.9,
-    "categoryId": 776,
-    "categoryName": "SEASON'S GREETINGS",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/7221"
-  },
-  "776:2931": {
-    "name": "2021 Season's Greetings",
-    "status": "SOLD_OUT",
-    "price": 29.9,
-    "originalPrice": 29.9,
-    "categoryId": 776,
-    "categoryName": "SEASON'S GREETINGS",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/2931"
-  },
-  "776:533": {
-    "name": "2020 Season's Greetings",
-    "status": "SOLD_OUT",
-    "price": 29.9,
-    "originalPrice": 29.9,
-    "categoryId": 776,
-    "categoryName": "SEASON'S GREETINGS",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/533"
   },
   "392:28982": {
     "name": "TOMORROW X TOGETHER ACT : SWEET MIRAGE in LA",
