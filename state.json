@@ -1,7 +1,7 @@
 {
   "6426:48666": {
     "name": "TXT BUNDLE B",
-    "status": "SALE",
+    "status": "SALE_END",
     "price": 19.99,
     "originalPrice": 73.9,
     "categoryId": 6426,
