@@ -1,21 +1,111 @@
 {
-  "6426:48791": {
-    "name": "TOMORROW X TOGETHER MEMORIES : THIRD STORY PACAKGE",
-    "status": "SOLD_OUT",
-    "price": 8.42,
-    "originalPrice": 84.2,
+  "6426:51811": {
+    "name": "Figure (Original Ver.)",
+    "status": "SALE",
+    "price": 30,
+    "originalPrice": 30,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48791"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51811"
   },
-  "6426:48790": {
-    "name": "TOMORROW X TOGETHER MEMORIES : THIRD & FOURTH STORY PACAKGE",
+  "6426:51810": {
+    "name": "Figure (Holiday Ver.) (Random)",
     "status": "SOLD_OUT",
-    "price": 12.98,
-    "originalPrice": 84.2,
+    "price": 30,
+    "originalPrice": 30,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48790"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51810"
+  },
+  "6426:51809": {
+    "name": "Plush Keyring (Holiday Ver.)",
+    "status": "SALE",
+    "price": 36,
+    "originalPrice": 36,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51809"
+  },
+  "6426:51808": {
+    "name": "Magnet Set",
+    "status": "SALE",
+    "price": 32,
+    "originalPrice": 32,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51808"
+  },
+  "6426:51807": {
+    "name": "Cushion Keyring (Random)",
+    "status": "SALE",
+    "price": 13,
+    "originalPrice": 13,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51807"
+  },
+  "6426:51806": {
+    "name": "Card Set",
+    "status": "SALE",
+    "price": 14,
+    "originalPrice": 14,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51806"
+  },
+  "6426:51805": {
+    "name": "Sticker",
+    "status": "SALE",
+    "price": 8,
+    "originalPrice": 8,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51805"
+  },
+  "6426:51804": {
+    "name": "PPULBATU Tree Costume",
+    "status": "SOLD_OUT",
+    "price": 27,
+    "originalPrice": 27,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51804"
+  },
+  "6426:28234": {
+    "name": "SHAKER KEYRING",
+    "status": "SALE",
+    "price": 21,
+    "originalPrice": 21,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28234"
+  },
+  "6426:28237": {
+    "name": "STICKER SET",
+    "status": "SOLD_OUT",
+    "price": 8.9,
+    "originalPrice": 8.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28237"
+  },
+  "6426:28230": {
+    "name": "FACE CUSHION",
+    "status": "SOLD_OUT",
+    "price": 41.9,
+    "originalPrice": 41.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28230"
+  },
+  "6426:28231": {
+    "name": "PLUSH KEYRING",
+    "status": "SOLD_OUT",
+    "price": 24.9,
+    "originalPrice": 24.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28231"
   },
   "6256:51811": {
     "name": "Figure (Original Ver.)",
