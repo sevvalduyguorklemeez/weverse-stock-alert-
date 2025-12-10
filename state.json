@@ -224,15 +224,6 @@
     "categoryName": "MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51339"
   },
-  "6:48926": {
-    "name": "[SOOBIN] CHOI YONG MEONG PLUSH SET",
-    "status": "SOLD_OUT",
-    "price": 55,
-    "originalPrice": 55,
-    "categoryId": 6,
-    "categoryName": "MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/48926"
-  },
   "6:44513": {
     "name": "Official Light Stick Ver.2",
     "status": "SALE",
@@ -322,6 +313,15 @@
     "categoryId": 6,
     "categoryName": "MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42707"
+  },
+  "6:42706": {
+    "name": "Instant Photocard",
+    "status": "SALE",
+    "price": 11,
+    "originalPrice": 11,
+    "categoryId": 6,
+    "categoryName": "MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42706"
   },
   "5:51490": {
     "name": "NO LABELS: PART 01 (Trunk Shorts Ver.)",
