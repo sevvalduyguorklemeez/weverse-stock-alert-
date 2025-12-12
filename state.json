@@ -1,21 +1,21 @@
 {
-  "6426:34039": {
+  "6426:52032": {
     "name": "MOA MEMBERSHIP",
     "status": "SALE",
     "price": 19.67,
     "originalPrice": 19.67,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34039"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52032"
   },
-  "6426:34040": {
+  "6426:52035": {
     "name": "MOA MEMBERSHIP KIT",
-    "status": "SOLD_OUT",
-    "price": 9.44,
-    "originalPrice": 9.44,
+    "status": "SALE",
+    "price": 10.23,
+    "originalPrice": 10.23,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34040"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52035"
   },
   "6256:51811": {
     "name": "Figure (Original Ver.)",
@@ -557,32 +557,41 @@
     "categoryName": "DVD/MEDIA",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/2983"
   },
-  "65:34039": {
+  "65:52032": {
     "name": "MOA MEMBERSHIP",
     "status": "SALE",
     "price": 19.67,
     "originalPrice": 19.67,
     "categoryId": 65,
     "categoryName": "GLOBAL MEMBERSHIP",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34039"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52032"
   },
-  "65:34040": {
+  "65:52035": {
     "name": "MOA MEMBERSHIP KIT",
-    "status": "SOLD_OUT",
-    "price": 9.44,
-    "originalPrice": 9.44,
+    "status": "SALE",
+    "price": 10.23,
+    "originalPrice": 10.23,
     "categoryId": 65,
     "categoryName": "GLOBAL MEMBERSHIP",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34040"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52035"
   },
-  "112:34128": {
+  "112:52088": {
     "name": "MOA MEMBERSHIP (JP)",
     "status": "SALE",
     "price": 42.9,
     "originalPrice": 42.9,
     "categoryId": 112,
     "categoryName": "JAPAN MEMBERSHIP",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34128"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52088"
+  },
+  "80:52135": {
+    "name": "MOA MEMBERSHIP KIT",
+    "status": "SALE",
+    "price": 17,
+    "originalPrice": 17,
+    "categoryId": 80,
+    "categoryName": "US MEMBERSHIP",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52135"
   },
   "80:45318": {
     "name": "Custom Faux Freckles Face Patch",
@@ -593,23 +602,14 @@
     "categoryName": "US MEMBERSHIP",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/45318"
   },
-  "80:34328": {
-    "name": "MOA MEMBERSHIP KIT",
-    "status": "SOLD_OUT",
-    "price": 14,
-    "originalPrice": 14,
-    "categoryId": 80,
-    "categoryName": "US MEMBERSHIP",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34328"
-  },
-  "80:34050": {
+  "80:52134": {
     "name": "MOA MEMBERSHIP (US)",
     "status": "SALE",
     "price": 22,
     "originalPrice": 22,
     "categoryId": 80,
     "categoryName": "US MEMBERSHIP",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/34050"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52134"
   },
   "776:51506": {
     "name": "TOMORROW X TOGETHER 2026 SEASON’S GREETINGS",
