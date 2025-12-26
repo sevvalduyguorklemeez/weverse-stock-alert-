@@ -1,21 +1,111 @@
 {
-  "6426:52032": {
-    "name": "MOA MEMBERSHIP",
+  "6426:51490": {
+    "name": "NO LABELS: PART 01 (Trunk Shorts Ver.)",
     "status": "SALE",
-    "price": 19.67,
-    "originalPrice": 19.67,
+    "price": 46.9,
+    "originalPrice": 46.9,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52032"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51490"
   },
-  "6426:52035": {
-    "name": "MOA MEMBERSHIP KIT",
-    "status": "SALE",
-    "price": 10.23,
-    "originalPrice": 10.23,
+  "6426:51489": {
+    "name": "NO LABELS: PART 01 (SET-UP A)",
+    "status": "SOLD_OUT",
+    "price": 23.9,
+    "originalPrice": 23.9,
     "categoryId": 6426,
     "categoryName": "2025 BLACK FRIDAY",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/52035"
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51489"
+  },
+  "6426:51488": {
+    "name": "NO LABELS: PART 01 (SET-UP B)",
+    "status": "SOLD_OUT",
+    "price": 23.9,
+    "originalPrice": 23.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51488"
+  },
+  "6426:51487": {
+    "name": "NO LABELS: PART 01 (SET-UP C)",
+    "status": "SOLD_OUT",
+    "price": 23.9,
+    "originalPrice": 23.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51487"
+  },
+  "6426:51486": {
+    "name": "NO LABELS: PART 01 (SET-UP A) (Weverse Exclusive)",
+    "status": "SOLD_OUT",
+    "price": 24.9,
+    "originalPrice": 24.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51486"
+  },
+  "6426:51485": {
+    "name": "NO LABELS: PART 01 (SET-UP B) (Weverse Exclusive)",
+    "status": "SOLD_OUT",
+    "price": 24.9,
+    "originalPrice": 24.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51485"
+  },
+  "6426:51484": {
+    "name": "NO LABELS: PART 01 (SET-UP C) (Weverse Exclusive)",
+    "status": "SOLD_OUT",
+    "price": 24.9,
+    "originalPrice": 24.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51484"
+  },
+  "6426:47583": {
+    "name": "NO LABELS: PART 01 (Photocard Case Ver.)",
+    "status": "SALE",
+    "price": 17.5,
+    "originalPrice": 17.5,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/47583"
+  },
+  "6426:43955": {
+    "name": "The Star Chapter: TOGETHER (Solo Track Ver.)",
+    "status": "SOLD_OUT",
+    "price": 16.9,
+    "originalPrice": 16.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/43955"
+  },
+  "6426:43953": {
+    "name": "The Star Chapter: TOGETHER (Awake Ver.) (Weverse Exclusive)",
+    "status": "SOLD_OUT",
+    "price": 26.9,
+    "originalPrice": 26.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/43953"
+  },
+  "6426:43952": {
+    "name": "The Star Chapter: TOGETHER (Etched Ver.) (Weverse Exclusive)",
+    "status": "SOLD_OUT",
+    "price": 26.9,
+    "originalPrice": 26.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/43952"
+  },
+  "6426:43951": {
+    "name": "The Star Chapter: TOGETHER (Starlight Ver.) (Weverse Exclusive)",
+    "status": "SALE",
+    "price": 26.9,
+    "originalPrice": 26.9,
+    "categoryId": 6426,
+    "categoryName": "2025 BLACK FRIDAY",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/43951"
   },
   "6256:51811": {
     "name": "Figure (Original Ver.)",
