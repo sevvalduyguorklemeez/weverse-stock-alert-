@@ -116,15 +116,6 @@
     "categoryName": "PPULBATU",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51811"
   },
-  "6256:51810": {
-    "name": "Figure (Holiday Ver.) (Random)",
-    "status": "SOLD_OUT",
-    "price": 30,
-    "originalPrice": 30,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51810"
-  },
   "6256:51809": {
     "name": "Plush Keyring (Holiday Ver.)",
     "status": "SALE",
@@ -133,15 +124,6 @@
     "categoryId": 6256,
     "categoryName": "PPULBATU",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51809"
-  },
-  "6256:51808": {
-    "name": "Magnet Set",
-    "status": "SOLD_OUT",
-    "price": 32,
-    "originalPrice": 32,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51808"
   },
   "6256:51807": {
     "name": "Cushion Keyring (Random)",
@@ -170,15 +152,6 @@
     "categoryName": "PPULBATU",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51805"
   },
-  "6256:51804": {
-    "name": "PPULBATU Tree Costume",
-    "status": "SOLD_OUT",
-    "price": 27,
-    "originalPrice": 27,
-    "categoryId": 6256,
-    "categoryName": "PPULBATU",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51804"
-  },
   "6256:28234": {
     "name": "SHAKER KEYRING",
     "status": "SALE",
@@ -187,6 +160,33 @@
     "categoryId": 6256,
     "categoryName": "PPULBATU",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28234"
+  },
+  "6256:51810": {
+    "name": "Figure (Holiday Ver.) (Random)",
+    "status": "SOLD_OUT",
+    "price": 30,
+    "originalPrice": 30,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51810"
+  },
+  "6256:51808": {
+    "name": "Magnet Set",
+    "status": "SOLD_OUT",
+    "price": 32,
+    "originalPrice": 32,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51808"
+  },
+  "6256:51804": {
+    "name": "PPULBATU Tree Costume",
+    "status": "SOLD_OUT",
+    "price": 27,
+    "originalPrice": 27,
+    "categoryId": 6256,
+    "categoryName": "PPULBATU",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51804"
   },
   "6256:28237": {
     "name": "STICKER SET",
@@ -214,15 +214,6 @@
     "categoryId": 6256,
     "categoryName": "PPULBATU",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/28231"
-  },
-  "6:51339": {
-    "name": "[SOOBIN] CHOI YONG MEONG PLUSH SET",
-    "status": "SOLD_OUT",
-    "price": 55,
-    "originalPrice": 55,
-    "categoryId": 6,
-    "categoryName": "MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/51339"
   },
   "6:44513": {
     "name": "Official Light Stick Ver.2",
@@ -269,15 +260,6 @@
     "categoryName": "MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42717"
   },
-  "6:42716": {
-    "name": "[TXT X SENTIMENTS] Hair Pin Set",
-    "status": "SOLD_OUT",
-    "price": 53,
-    "originalPrice": 53,
-    "categoryId": 6,
-    "categoryName": "MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42716"
-  },
   "6:42712": {
     "name": "Photo Keyring",
     "status": "SALE",
@@ -286,15 +268,6 @@
     "categoryId": 6,
     "categoryName": "MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42712"
-  },
-  "6:42711": {
-    "name": "Photocard Holder",
-    "status": "SOLD_OUT",
-    "price": 35,
-    "originalPrice": 35,
-    "categoryId": 6,
-    "categoryName": "MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42711"
   },
   "6:42710": {
     "name": "Socks",
@@ -322,6 +295,33 @@
     "categoryId": 6,
     "categoryName": "MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/42706"
+  },
+  "6:39730": {
+    "name": "Plush Costume",
+    "status": "SALE",
+    "price": 26,
+    "originalPrice": 26,
+    "categoryId": 6,
+    "categoryName": "MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/39730"
+  },
+  "6:39551": {
+    "name": "Backpack Keyring + Bag",
+    "status": "SALE",
+    "price": 57,
+    "originalPrice": 57,
+    "categoryId": 6,
+    "categoryName": "MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/39551"
+  },
+  "6:39550": {
+    "name": "Bandana",
+    "status": "SALE",
+    "price": 25,
+    "originalPrice": 25,
+    "categoryId": 6,
+    "categoryName": "MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/39550"
   },
   "5:51490": {
     "name": "NO LABELS: PART 01 (Trunk Shorts Ver.)",
@@ -431,24 +431,6 @@
     "categoryName": "ALBUM",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/43951"
   },
-  "186:46102": {
-    "name": "SCARF",
-    "status": "SOLD_OUT",
-    "price": 19,
-    "originalPrice": 19,
-    "categoryId": 186,
-    "categoryName": "TOUR MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/46102"
-  },
-  "186:46101": {
-    "name": "VARSITY JACKET",
-    "status": "SOLD_OUT",
-    "price": 135,
-    "originalPrice": 135,
-    "categoryId": 186,
-    "categoryName": "TOUR MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/46101"
-  },
   "186:44041": {
     "name": "Official Light Stick Keyring Ver.2",
     "status": "SALE",
@@ -503,15 +485,6 @@
     "categoryName": "TOUR MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/44032"
   },
-  "186:44030": {
-    "name": "Mini Photo Card",
-    "status": "SOLD_OUT",
-    "price": 10,
-    "originalPrice": 10,
-    "categoryId": 186,
-    "categoryName": "TOUR MERCH",
-    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/44030"
-  },
   "186:44029": {
     "name": "Official Light Stick Deco Cover",
     "status": "SALE",
@@ -538,6 +511,33 @@
     "categoryId": 186,
     "categoryName": "TOUR MERCH",
     "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/36077"
+  },
+  "186:36075": {
+    "name": "OFFICIAL LIGHT STICK DECO BAND",
+    "status": "SALE",
+    "price": 16,
+    "originalPrice": 16,
+    "categoryId": 186,
+    "categoryName": "TOUR MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/36075"
+  },
+  "186:36072": {
+    "name": "LUCKY DRAW",
+    "status": "SALE",
+    "price": 10,
+    "originalPrice": 10,
+    "categoryId": 186,
+    "categoryName": "TOUR MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/36072"
+  },
+  "186:36070": {
+    "name": "MINI PHOTO CARD SET",
+    "status": "SALE",
+    "price": 43,
+    "originalPrice": 43,
+    "categoryId": 186,
+    "categoryName": "TOUR MERCH",
+    "url": "https://shop.weverse.io/en/shop/USD/artists/3/sales/36070"
   },
   "44:39115": {
     "name": "MEMORIES : MYSTIC",
